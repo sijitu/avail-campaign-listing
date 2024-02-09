@@ -1,0 +1,8 @@
+{
+  "name": "<tusikimap>",
+  "logo": "<https://postimg.cc/yJ3qWBP3>",
+  "rpc_url": "http://45.76.89.214:9944",
+  "explorer_url": "http://45.76.89.214:4000",
+  "metrics_endpoint": "http://45.76.89.214:9615/metrics",
+  "id": "e40710e4-e1ef-403d-9fc7-b1e6030f3f59"
+}
